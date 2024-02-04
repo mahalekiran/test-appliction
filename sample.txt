@@ -1,1 +1,4 @@
 ths is dev 
+
+
+fixed code
